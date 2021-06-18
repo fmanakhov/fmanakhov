@@ -1,6 +1,5 @@
-# Me
-## Hi 👋 comrade
+# Hi 👋 stalker
 
 Wow, they are watching me ![](https://komarev.com/ghpvc/?username=fmanakhov)
 
-![Alt](https://github.com/fmanakhov/fmanakhov/blob/main/GG.gif)
+img src="https://github.com/fmanakhov/fmanakhov/blob/main/GG.gif" align="center">
