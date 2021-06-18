@@ -2,4 +2,6 @@
 
 Wow, посмотрели мою страницу: ![](https://komarev.com/ghpvc/?username=fmanakhov)
 
-<img src="https://github.com/fmanakhov/fmanakhov/blob/main/GG.gif" align="center">
+<div align="center">
+<img src="https://github.com/fmanakhov/fmanakhov/blob/main/GG.gif">
+</div>
